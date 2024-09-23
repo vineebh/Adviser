@@ -4,7 +4,7 @@ import { useEffect } from 'react';
 
 function App() {
   const [adv , setAdvice] = useState("Null");
-  const [day, setDay] = useState(-1);
+  const [day, setDay] = useState(0);
 
   async function getAdvice(){
     const res= await fetch('https://api.adviceslip.com/advice');
