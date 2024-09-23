@@ -1,5 +1,7 @@
 # Adviser
 
+Adviser — AI-Powered Career Guidance Platform Developed a smart web-based platform designed to offer personalized career guidance to students and professionals. Built using React.js for a responsive and intuitive user interface, the platform integrates Node.js for backend functionality and MySQL for robust data management. Leveraged machine learning algorithms to analyze user inputs and provide tailored career suggestions, making use of third-party APIs for industry trends and job market insights. The project highlights expertise in full-stack development and the practical application of AI for user-driven solutions.
+
 ![screenshot](image.png)
 
 # Getting Started with Create React App
